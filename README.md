@@ -23,3 +23,8 @@ awesome-tech-lead（技术管理知多少）
 - 2022-10-31 李一鸣：[Tech Lead角色认知](https://icodebook.com/posts/tl-role)
 - 2023-7-1 麻广广：[当你成为一个Tech Lead](https://www.maguangguang.xyz/be-a-tech-lead)
 - 2023-11-26 李光毅：[Tech Lead 要学会戴着镣铐跳舞](https://www.v2think.com/tech-lead-dilemma)
+
+## <span id="2"> GitHub Repos （GitHub 仓库）</span>
+| Repo| Stars | Description |
+| :-----: | :----: | :----: |
+| [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) | https://img.shields.io/github/stars/LappleApple/awesome-leading-and-managing | Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.|
