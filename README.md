@@ -27,4 +27,4 @@ awesome-tech-lead（技术管理知多少）
 ## <span id="2"> GitHub Repos （GitHub 仓库）</span>
 | Repo| Stars | Description |
 | :-----: | :----: | :----: |
-| [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) | https://img.shields.io/github/stars/LappleApple/awesome-leading-and-managing | Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.|
+| [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) | ![GitHub Repo tars](https://img.shields.io/github/stars/LappleApple/awesome-leading-and-managing) | Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.|
