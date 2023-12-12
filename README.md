@@ -23,6 +23,7 @@ awesome-tech-lead（技术管理知多少）
 - 2022-10-9 李一鸣：[Tech Lead和团队其他角色的协作](https://icodebook.com/posts/tl-cooperation)
 - 2022-10-31 李一鸣：[Tech Lead角色认知](https://icodebook.com/posts/tl-role)
 - 2023-7-1 麻广广：[当你成为一个Tech Lead](https://www.maguangguang.xyz/be-a-tech-lead)
+- 2023-3-2 尚家明：[Tech Lead如何引导团队成员解决问题？](https://insights.thoughtworks.cn/how-to-tech-lead-guide-team-members-solve-problem/)
 - 2023-11-26 李光毅：[Tech Lead 要学会戴着镣铐跳舞](https://www.v2think.com/tech-lead-dilemma)
 
 ## <span id="3"> GitHub Repos（GitHub 仓库）</span>
