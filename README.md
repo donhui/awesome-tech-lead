@@ -32,3 +32,5 @@ awesome-tech-lead（技术管理知多少）
 | :-----: | :----: | :----: |
 | [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) | ![GitHub Repo tars](https://img.shields.io/github/stars/LappleApple/awesome-leading-and-managing) | Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.|
 | [glennsantos/tech-lead-roadmap](https://github.com/glennsantos/tech-lead-roadmap) | ![GitHub Repo tars](https://img.shields.io/github/stars/glennsantos/tech-lead-roadmap) | A roadmap for advancing your career to the level of lead developer / tech lead |
+| [icaroseara/tech-leadership](https://github.com/icaroseara/tech-leadership) | ![GitHub Repo tars](https://img.shields.io/github/stars/icaroseara/tech-leadership) | A curated collection of resources related to tech leadership |
+
