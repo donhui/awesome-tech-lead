@@ -14,6 +14,7 @@ awesome-tech-lead（技术管理知多少）
 | 知行：技术人的管理之路（第2版） | 刘建国 |  2023-7-1 | 9787115613660 | - | [豆瓣](https://book.douban.com/subject/36474384/) |
 
 ## <span id="2"> Chinese Articles （中文文章）</span>
+- 2009-08-05 熊节：[Tech Lead 的三重人格](https://www.infoq.cn/article/thoughtworks-practice-part8)
 - 2022-1-11 李光毅：[去年做 Tech Leader 犯过最大的错](https://www.v2think.com/tech-leader-mistake)
 - 2022-3-15 李一鸣：[当你 “不小心” 成为了 Tech Lead](https://icodebook.com/posts/tl-cognize)
 - 2022-5-23 李一鸣：[Tech Lead 如何应对编码时间下降](https://icodebook.com/posts/tl-less-code)
