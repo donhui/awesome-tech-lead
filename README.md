@@ -31,6 +31,7 @@ awesome-tech-lead（技术管理知多少）
 ## <span id="3"> Conferences（会议）</span>
 - InfoQ：[GTLC全球技术领导力峰会](https://gtlc.infoq.cn/)
 - InfoQ：[ArchSummit 全球架构师峰会](https://archsummit.infoq.cn/)
+- 51CTO + 腾讯云TVP：[LeaTech全球CTO领导力峰会](https://x.51cto.com/act/cto/leatech2022?camp)
 
 ## <span id="4"> GitHub Repos（GitHub 仓库）</span>
 | Repo| Stars | Description |
