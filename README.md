@@ -4,7 +4,8 @@ awesome-tech-lead（技术管理知多少）
 # Table of Content
 1. [Books (书籍)](#1)
 2. [Chinese Articles （中文文章）](#2)
-3. [GitHub Repos（GitHub 仓库）](#3)
+3. [Conferences（会议）](#3)
+4. [GitHub Repos（GitHub 仓库）](#4)
 
 ## <span id="1"> Books (书籍) </span>
 | Name（书名）| Author（作者） | Publish Date（出版时间）| ISBN | DouBan Score（豆瓣评分）| Link（链接）|
@@ -27,10 +28,16 @@ awesome-tech-lead（技术管理知多少）
 - 2023-7-1 麻广广：[当你成为一个Tech Lead](https://www.maguangguang.xyz/be-a-tech-lead)
 - 2023-11-26 李光毅：[Tech Lead 要学会戴着镣铐跳舞](https://www.v2think.com/tech-lead-dilemma)
 
-## <span id="3"> GitHub Repos（GitHub 仓库）</span>
+## <span id="3"> Conferences（会议）</span>
+- InfoQ：[GTLC全球技术领导力峰会](https://gtlc.infoq.cn/)
+- InfoQ：[ArchSummit 全球架构师峰会](https://archsummit.infoq.cn/)
+
+## <span id="4"> GitHub Repos（GitHub 仓库）</span>
 | Repo| Stars | Description |
 | :-----: | :----: | :----: |
 | [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) | ![GitHub Repo tars](https://img.shields.io/github/stars/LappleApple/awesome-leading-and-managing) | Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.|
 | [glennsantos/tech-lead-roadmap](https://github.com/glennsantos/tech-lead-roadmap) | ![GitHub Repo tars](https://img.shields.io/github/stars/glennsantos/tech-lead-roadmap) | A roadmap for advancing your career to the level of lead developer / tech lead |
 | [icaroseara/tech-leadership](https://github.com/icaroseara/tech-leadership) | ![GitHub Repo tars](https://img.shields.io/github/stars/icaroseara/tech-leadership) | A curated collection of resources related to tech leadership |
+
+
 
