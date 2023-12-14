@@ -8,11 +8,11 @@ awesome-tech-lead（技术管理知多少）
 4. [GitHub Repos（GitHub 仓库）](#4)
 
 ## <span id="1"> Books (书籍) </span>
-| Name（书名）| Author（作者） | Publish Date（出版时间）| ISBN | DouBan Score（豆瓣评分）| Link（链接）|
-| :-----: | :----: | :----: | :----: | :----: | :----: |
-| 知行：技术人的管理之路 | 刘建国 |  2019-5-1 | 9787115510761 | 9.3 | [豆瓣](https://book.douban.com/subject/33463986/) |
-| 《Tech Lead 之路》——洞见出品的第四本文集 | 李光毅、李一鸣、麻广广 |  2023-4-12 | - | - | [Thoughtworks洞见](https://insights.thoughtworks.cn/tech-lead/) |
-| 知行：技术人的管理之路（第2版） | 刘建国 |  2023-7-1 | 9787115613660 | - | [豆瓣](https://book.douban.com/subject/36474384/) |
+| Name（书名）| Author（作者） | Publish Date（出版时间）| DouBan Score（豆瓣评分）| Link（链接）|
+| :-----: | :----: | :----: | :----: | :----: |
+| 知行：技术人的管理之路 | 刘建国 |  2019-5-1 | 9.3 | [豆瓣](https://book.douban.com/subject/33463986/) |
+| 《Tech Lead 之路》——洞见出品的第四本文集 | 李光毅、李一鸣、麻广广 |  2023-4-12 | - | [Thoughtworks洞见](https://insights.thoughtworks.cn/tech-lead/) |
+| 知行：技术人的管理之路（第2版） | 刘建国 |  2023-7-1 | - | [豆瓣](https://book.douban.com/subject/36474384/) |
 
 ## <span id="2"> Chinese Articles （中文文章）</span>
 - 2009-08-05 熊节：[Tech Lead 的三重人格](https://www.infoq.cn/article/thoughtworks-practice-part8)
