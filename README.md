@@ -5,7 +5,8 @@ awesome-tech-lead（技术管理知多少）
 1. [Books (书籍)](#1)
 2. [Chinese Articles （中文文章）](#2)
 3. [Conferences（会议）](#3)
-4. [GitHub Repos（GitHub 仓库）](#4)
+4. [Viedos（视频）](#4)
+5. [GitHub Repos（GitHub 仓库）](#5)
 
 ## <span id="1"> Books (书籍) </span>
 | Name（书名）| Author（作者） | Publish Date（出版时间）| DouBan Score（豆瓣评分）| Link（链接）|
@@ -34,7 +35,10 @@ awesome-tech-lead（技术管理知多少）
 - InfoQ：[ArchSummit 全球架构师峰会](https://archsummit.infoq.cn/)
 - 51CTO + 腾讯云TVP：[LeaTech全球CTO领导力峰会](https://x.51cto.com/act/cto/leatech2022?camp)
 
-## <span id="4"> GitHub Repos（GitHub 仓库）</span>
+## <span id="4"> Viedos（视频）</span>
+- [技术转管理必修课程——《领导力的培养》](https://www.bilibili.com/video/BV1U8411t7Ta/)
+
+## <span id="5"> GitHub Repos（GitHub 仓库）</span>
 | Repo| Stars | Description |
 | :-----: | :----: | :----: |
 | [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) | ![GitHub Repo tars](https://img.shields.io/github/stars/LappleApple/awesome-leading-and-managing) | Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.|
