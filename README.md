@@ -5,7 +5,7 @@ awesome-tech-lead（技术管理知多少）
 1. [Books (书籍)](#1)
 2. [Chinese Articles （中文文章）](#2)
 3. [Conferences（会议）](#3)
-4. [Viedos（视频）](#4)
+4. [Videos（视频）](#4)
 5. [GitHub Repos（GitHub 仓库）](#5)
 
 ## <span id="1"> Books (书籍) </span>
@@ -35,7 +35,8 @@ awesome-tech-lead（技术管理知多少）
 - InfoQ：[ArchSummit 全球架构师峰会](https://archsummit.infoq.cn/)
 - 51CTO + 腾讯云TVP：[LeaTech全球CTO领导力峰会](https://x.51cto.com/act/cto/leatech2022?camp)
 
-## <span id="4"> Viedos（视频）</span>
+## <span id="4"> Videos（视频）</span>
+- [清华大学【领导力的逻辑】（全10讲）吴维库](https://www.bilibili.com/video/BV1uV4y1W7Zf)
 - [技术转管理必修课程——《领导力的培养》](https://www.bilibili.com/video/BV1U8411t7Ta/)
 
 ## <span id="5"> GitHub Repos（GitHub 仓库）</span>
