@@ -37,6 +37,7 @@ awesome-tech-lead（技术管理知多少）
 
 ## <span id="4"> Videos（视频）</span>
 - [清华大学【领导力的逻辑】（全10讲）吴维库](https://www.bilibili.com/video/BV1uV4y1W7Zf)
+- [东南大学 【领导力素养】吕鸿江、许勤、葛沪飞](https://www.xuetangx.com/course/seuP1202006327/16909681)
 - [技术转管理必修课程——《领导力的培养》](https://www.bilibili.com/video/BV1U8411t7Ta/)
 
 ## <span id="5"> GitHub Repos（GitHub 仓库）</span>
