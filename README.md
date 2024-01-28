@@ -11,7 +11,7 @@ awesome-tech-lead（技术管理知多少）
 ## <span id="1"> Books (书籍) </span>
 | Name（书名）| Author（作者） | Publish Date（出版时间）| DouBan Score（豆瓣评分）| Link（链接）|
 | :-----: | :----: | :----: | :----: | :----: |
-| 从技术走向管理——李元芳履职记 | 王树文 |  2013-8 | 6.7 | [豆瓣](https://book.douban.com/subject/33463986/) |
+| 从技术走向管理——李元芳履职记 | 王树文 |  2013-8 | 6.7 | [豆瓣](https://book.douban.com/subject/24873035/) |
 | 知行：技术人的管理之路 | 刘建国 |  2019-5-1 | 9.3 | [豆瓣](https://book.douban.com/subject/33463986/) |
 | 技术团队管理者的第一堂管理课 | 王海东 |  2021-3-1 | 7.6 | [豆瓣](https://book.douban.com/subject/35379981/) |
 | 《Tech Lead 之路》——洞见出品的第四本文集 | 李光毅、李一鸣、麻广广 |  2023-4-12 | - | [Thoughtworks洞见](https://insights.thoughtworks.cn/tech-lead/) |
