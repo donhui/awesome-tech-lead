@@ -18,6 +18,7 @@ awesome-tech-lead（技术管理知多少）
 | 《Tech Lead 之路》——洞见出品的第四本文集 | 李光毅、李一鸣、麻广广 |  2023-4-12 | - | [Thoughtworks洞见](https://insights.thoughtworks.cn/tech-lead/) |
 | 技术为径：带领公司走向卓越的工程师（The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change） | 刘宇聪（译） |  2023-5 | 8.9 | [豆瓣](https://book.douban.com/subject/36432906/) |
 | 知行：技术人的管理之路（第2版） | 刘建国 |  2023-7-1 | 9.4 | [豆瓣](https://book.douban.com/subject/36474384/) |
+| 技术领导力的要素 | 作者: [美] 威尔·拉森，译者: 王统祥 李梦阳 张鸿 |  2024-1 | - | [豆瓣](https://book.douban.com/subject/36700722/) |
 
 ## <span id="2"> Chinese Articles （中文文章）</span>
 - 2009-08-05 熊节：[Tech Lead 的三重人格](https://www.infoq.cn/article/thoughtworks-practice-part8)
